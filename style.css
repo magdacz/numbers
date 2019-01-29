@@ -1,0 +1,12 @@
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+.big {
+  font-size: 30px;
+    color: blue;
+}
